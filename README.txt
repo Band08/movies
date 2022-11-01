@@ -1,0 +1,1 @@
+Bu uygulama 01.11.2022 tarihinde web sitesi programlamayı öğrenmek amacıyla ders niteliğinde hazırlanmıştır.
